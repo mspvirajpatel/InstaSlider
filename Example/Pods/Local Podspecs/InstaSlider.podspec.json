@@ -1,0 +1,22 @@
+{
+  "name": "InstaSlider",
+  "version": "0.1.0",
+  "summary": "A short description of InstaSlider.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Viraj Patel/InstaSlider",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Viraj Patel": "mspviraj@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Viraj Patel/InstaSlider.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "InstaSlider/Classes/**/*"
+}

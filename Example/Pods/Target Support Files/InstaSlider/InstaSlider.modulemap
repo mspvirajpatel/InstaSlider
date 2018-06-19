@@ -1,0 +1,6 @@
+framework module InstaSlider {
+  umbrella header "InstaSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}
